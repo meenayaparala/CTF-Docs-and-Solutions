@@ -66,5 +66,4 @@ Feel free to reach out if you want to collaborate or discuss cybersecurity topic
 ---
 
 Happy hacking! 🐱‍💻
-```
 
