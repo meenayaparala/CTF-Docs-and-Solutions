@@ -1,8 +1,4 @@
-Perfect! I’ll add a **Folder Structure** section to the main README, right after the repo overview, so visitors get a clear map of how everything’s organized.
 
-Here’s the updated main README draft with a Folder Structure section included:
-
-```markdown
 # picoCTF Writeups by meena-yaparala 🧠🔐
 
 Welcome to my PicoCTF Writeups repository!  
