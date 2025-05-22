@@ -36,11 +36,7 @@ The repository is organized by categories, with each challenge having its own fo
 picoCTF-writeups/
 │
 ├── General Skills/
-│   
-│
-├── Cryptography/
-|
-│
+│── Cryptography/│
 └── README.md  ← This main file
 
 ```
